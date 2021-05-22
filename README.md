@@ -1,6 +1,6 @@
 # 🎧 Podcastr
 
-Projeto criado na trilha **ReactJS** durante a Next Level Week 5 da **Rocketseat**. O app feito com ReactJS (Next.js) serve para ouvir podcasts e possui uma breve descrição sobre cada episódio.; <br />
+Projeto criado na trilha **ReactJS** durante a Next Level Week 5 da **Rocketseat**. O app feito com ReactJS (Next.js) serve para ouvir podcasts e possui uma breve descrição sobre cada episódio; <br />
 
 O site é gerado utilizando **Static Site Generation (SSG)**, melhorando assim o desempenho da aplicação, e utiliza uma API fake para busca dos dados dos podcasts, as requisições são realizadas utilizando **Axios**; <br />
 
