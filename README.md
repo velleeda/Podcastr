@@ -10,7 +10,7 @@ O site é feito com a ideia de ser uma **Single Page Application (SPA)** de modo
 
 ## 🖥️ Desktop
 
-![](./public/gifs/default/defaultMain.gif)
+![](<img src="./public/gifs/default/defaultMain.gif" width="400" />)
 ![](./public/gifs/default/defaultSub.gif)
 
 ## Desktop Dark Mode
