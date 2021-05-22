@@ -1,0 +1,100 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+:root {
+  --white: #fff;
+
+  --gray-50: #f7f8fa;
+  --gray-100: #e6e8eb;
+  --gray-200: #afb2b1;
+  --gray-500: #808080;
+  --gray-800: #494d4b;
+
+  --purple-300: #9f75ff; // ====
+  --purple-400: #9164fa; // ==
+  --purple-500: #8257e5; // ==
+  --purple-800: #6f48c9;
+
+  --darkpurple-300: #7c42ff;
+  --darkpurple-400: #6e33f8;
+  --darkpurple-500: #612bde;
+  --darkpurple-800: #5733ab;
+
+  --black: #000;
+
+  --oppositegray-50: #050708;
+  --oppositegray-100: #191714;
+  --oppositegray-200: #504d4e;
+  --oppositegray-500: #7f7f7f;
+  --oppositegray-800: #b6b2b4;
+
+  --pink-500: #fb2c9e;
+
+  --green-50: #608a00;
+  --green-100: #6e9b05;
+  --green-200: #7da81a;
+  --green-400: #90b736;
+  --green-500: #04d361;
+}
+
+@media (max-width: 1920px) {
+  html {
+    font-size: 93.75%;
+  }
+}
+
+@media (max-width: 1366px) {
+  html {
+    font-size: 80%;
+  }
+}
+
+@media (max-width: 900px) {
+  html {
+    font-size: 90%;
+  }
+}
+
+@media (max-width: 480px) {
+  html {
+    font-size: 87.5%;
+  }
+}
+
+body {
+  background: var(--gray-50);
+}
+
+body,
+input,
+textarea,
+button {
+  font: 500 1rem Inter, sans-serif;
+  color: var(--gray-500);
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-weight: 600;
+  font-family: Lexend, sans-serif;
+  color: var(--gray-800);
+}
+
+h1 {
+  font-size: 2rem;
+}
+
+h2 {
+  font-size: 1.5rem;
+}
+
+button {
+  cursor: pointer;
+}
