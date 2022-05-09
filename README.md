@@ -1,11 +1,11 @@
 # 🎧 Podcastr
-
-Projeto criado na trilha **ReactJS** durante a Next Level Week 5 da **Rocketseat**. O app feito com ReactJS (Next.js) serve para ouvir podcasts e possui uma breve descrição sobre cada episódio; <br />
-
-O site é gerado utilizando **Static Site Generation (SSG)**, melhorando assim o desempenho da aplicação, e utiliza uma API fake para busca dos dados dos podcasts, as requisições são realizadas utilizando **Axios**; <br />
-
-O site é feito com a ideia de ser uma **Single Page Application (SPA)** de modo em que a header e o player permaneçam estáticos enquanto o restante da página permanece dinâmica. <br />
-
+  
+Project created on the **ReactJS** track during **Rocketseat**'s Next Level Week 5. The app made with ReactJS (Next.js) is used to listen to podcasts and has a brief description of each episode;
+  
+The site is generated using **Static Site Generation (SSG)**, thus improving the performance of the application, and uses a fake API to search for data from podcasts, requests are made using **Axios**;
+  
+The site is designed with the idea of ​​being a **Single Page Application (SPA)** so that the header and player remain static while the rest of the page remains dynamic.
+  
 # Overview
 
 ## 🖥️ Desktop
@@ -50,4 +50,4 @@ $ yarn server
 
 # Reference
 
-Me baseei no código do keyyuwan (https://github.com/keyyuwan/Podcastr) para adicionar o dark mode e deixar o site responsivo, pois estava tendo dificuldades.
+I used the code from keyyuwan (https://github.com/keyyuwan/Podcastr) to add dark mode and make the site responsive, as I was having difficulties.
